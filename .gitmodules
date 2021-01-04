@@ -1,0 +1,6 @@
+[submodule "MonitoringPOC"]
+	path = MonitoringPOC
+	url = https://github.com/mkellock/MonitoringPOC
+[submodule "RabbitMQKubernetesPOC"]
+	path = RabbitMQKubernetesPOC
+	url = https://github.com/mkellock/RabbitMQKubernetesPOC
